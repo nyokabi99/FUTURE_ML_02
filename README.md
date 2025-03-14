@@ -1,5 +1,5 @@
 # TOPIC: PREDICTING MOVIE BOX OFFICE REVENUE
-This study aims to build a machine learning model to predict box office revenue using factors such as genre, budget and popularity. The dataset used for this project is the TMDB movie dataset from kaggle, which contains movie-related attributes such as budget, revenue,genre,release date,popularity score,production company...
+This study aims to build a machine learning model using python to predict box office revenue using factors such as genre, budget and popularity. The dataset used for this project is the TMDB movie dataset from kaggle, which contains movie-related attributes such as budget, revenue,genre,release date,popularity score,production company...
 ## Data Preprocessing
 ### Data Cleaning
 The dataset contained missing values, which were handled through removal, we dropped the missing values.
